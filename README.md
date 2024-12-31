@@ -118,7 +118,6 @@ This project analyzes Netflix’s content library to uncover trends and viewer p
 
 ## **📂 Artifacts**
 
-- **Interactive Dashboards**: [View Tableau Public Dashboard](path/to/dashboard)
 - **Dataset**: [Download Dataset](https://github.com/chaitali-khadse/Portfolio-project-on-netflix-content-evolution/blob/main/Netflix_Content_Data.csv)
 
 ---
