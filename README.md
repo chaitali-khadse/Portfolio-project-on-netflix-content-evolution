@@ -1,5 +1,5 @@
 
-
+# **Netflix Content Trends Analysis**
 ---
 
 ## **Project Overview**
@@ -40,7 +40,7 @@ This project analyzes Netflix’s content library to identify trends and viewer 
    - Created dashboards in Tableau to illustrate trends, distributions, and comparisons
 
 ---
-# **Netflix Content Trends Analysis**
+## **Netflix Content Trends Analysis**
 
 ![Tableau Dashboard](Netflix_Dashboard_Tableau.png)
 ## **Visualizations**
