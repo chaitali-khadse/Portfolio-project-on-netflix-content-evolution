@@ -22,7 +22,7 @@ This project analyzes Netflix’s content library to identify trends and viewer 
 ## **Methodology**
 
 ### **Data Source**
-- [Netflix Content Dataset](path/to/dataset.csv): Contains information on titles, genres, countries, ratings, and release dates.
+- - [Netflix Content Dataset](https://github.com/chaitali-khadse/your-repo-name/blob/main/Netflix_Content_Data.csv): Contains information on titles, genres, countries, ratings, and release dates.
 
 ### **Tools Used**
 - **Python**: Data cleaning and preprocessing
