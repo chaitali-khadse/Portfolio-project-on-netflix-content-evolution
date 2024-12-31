@@ -47,19 +47,19 @@ This project analyzes Netflix’s content library to identify trends and viewer 
 
 ### **1. Geographical Distribution of Content**
 - **Insight**: Heatmap showing the concentration of movies and TV shows by country.
-![Geographical Heatmap](path/to/geo-heatmap.png)
+![Tableau Dashboard](netflix_heatmap.png)
 
 ### **2. Genre Preferences**
 - **Insight**: Bar chart highlighting the top 10 most common genres.
-![Top Genres Bar Chart](path/to/genre-bar-chart.png)
+![Top Genres Bar Chart](netflix_top10.png)
 
 ### **3. Content Type Distribution**
 - **Insight**: Pie chart showing the proportion of movies versus TV shows.
-![Content Distribution Pie Chart](path/to/content-pie-chart.png)
+![Content Distribution Pie Chart](netflix_pie.png)
 
 ### **4. Temporal Trends**
 - **Insight**: Line chart illustrating content production growth over time.
-![Temporal Trends Line Chart](path/to/temporal-line-chart.png)
+![Temporal Trends Line Chart](netflix_line.png)
 
 ---
 
