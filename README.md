@@ -116,11 +116,6 @@ This project analyzes Netflix’s content library to identify trends and viewer 
 
 ---
 
-## **GitHub Repository**
-Explore the full project and source files: [GitHub Repository](your-repository-link)
-
----
-
 ## **Call to Action**
 This project showcases my ability to derive actionable insights through data analysis and visualization.  
 Let’s connect to discuss how I can bring value to your team. Feel free to explore the repository or reach out to me for collaborations.
