@@ -1,6 +1,6 @@
 # **Netflix Content Trends Analysis**
 
-![Netflix Content Dashboard](path/to/dashboard/image.png)
+![Tableau Dashboard](Netflix_Dashboard_Tableau.png)
 
 ---
 
@@ -62,8 +62,6 @@ This project analyzes Netflix’s content library to identify trends and viewer 
 ![Temporal Trends Line Chart](path/to/temporal-line-chart.png)
 
 ---
-- **Dashboard**: 
-![Tableau Dashboard](Netflix_Dashboard_Tableau.png)
 
 ## **Insights Derived**
 
